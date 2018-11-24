@@ -1,1 +1,0 @@
-# CppTheory-Project-Calculator
